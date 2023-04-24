@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![TomCC7's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TomCC7&show_icons=true&theme=onedark&count_private=true)
+![TomCC7's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TomCC7&show_icons=true&theme=onedark&count_private=true&langs_count=4)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomcc7&layout=compact&langs_count=4&theme=onedark&exclude_repo=dotfiles,flake,.emacs.d,learnlaravel)](https://github.com/anuraghazra/github-readme-stats)
