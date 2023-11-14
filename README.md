@@ -1,5 +1,5 @@
 ### Hello 👋
-- 🌱 In coming Robotics M.S. student at UMich
+- 🌱 Robotics M.S. student at UMich
 - 🔭 broadly interested in robot perception, planning, and control
 - ⚡ learn more at my [personal website](https://player7.cc)
 <!--
