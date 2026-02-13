@@ -22,10 +22,10 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=onedark&count_private=true&langs_count=4
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=onedark&count_private=true&langs_count=4&include_all_commits=true
           path: profile/stats.svg
           # For private stats, replace secrets.GITHUB_TOKEN with a Personal Access Token (PAT) stored as a secret (e.g., secrets.PAT_TOKEN)
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Commit cards
         run: |
