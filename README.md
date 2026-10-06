@@ -1,6 +1,7 @@
 ### Hello 👋
 - 🌱 M.S. in Robotics, University of Michigan
 - 🔭 broadly interested in robot perception, planning, and control
+- learn more at https://tomcc7.github.io/
 
 <!--
 **TomCC7/TomCC7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
