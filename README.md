@@ -1,4 +1,5 @@
 ### Hello 👋
+- Building [DimOS](https://github.com/dimensionalOS/dimos)
 - 🌱 M.S. in Robotics, University of Michigan
 - 🔭 broadly interested in robot perception, planning, and control
 - learn more at https://tomcc7.github.io/
